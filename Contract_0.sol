@@ -1,5 +1,4 @@
-2
-contract DataVault_0 {
+3contract DataVault_0 {
     uint256 public randomNumber;
     string public message;
 
