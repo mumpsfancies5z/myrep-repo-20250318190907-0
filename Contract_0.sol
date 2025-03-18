@@ -1,5 +1,4 @@
-1pragma solidity ^0.8.0;
-
+2
 contract DataVault_0 {
     uint256 public randomNumber;
     string public message;
